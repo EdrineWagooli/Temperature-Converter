@@ -144,4 +144,4 @@ def main(page: ft.Page):
 
 # Run the App
 if __name__ == "__main__":
-    ft.app(target=main, view=ft.AppView.FLET_APP_WEB)
+    ft.app(target=main, view=ft.AppView.WEB_BROWSER)
